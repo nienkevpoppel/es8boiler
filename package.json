@@ -1,0 +1,28 @@
+{
+  "name": "creative_programming",
+  "version": "2017.1.0",
+  "description": "My personal es8 boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack --watch"
+  },
+  "keywords": [
+    "Javscript",
+    "Es8",
+    "Boilerplate"
+  ],
+  "author": "Nienke van Poppel",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-env": "^1.6.0",
+    "browser-sync": "^2.18.13",
+    "browser-sync-webpack-plugin": "^1.2.0",
+    "webpack": "^3.5.5"
+  },
+  "dependencies": {
+    "babel-loader": "^7.1.2",
+    "webpack": "^3.5.5"
+  }
+}
